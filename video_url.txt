@@ -1,0 +1,5 @@
+Player URL:
+https://pasterization.github.io/player/?list=https://raw.githubusercontent.com/pasterization/3d36346d0a4c5b28/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/pasterization/3d36346d0a4c5b28/refs/heads/master/github_master.m3u8
